@@ -7,7 +7,7 @@ require("dotenv").config();
 // const mediaRouter = require("./routes/media");
 // const userRouter = require("./routes/user");
 // const adminRouter = require("./routes/admin");
-// const PORT = process.env.PORT || 8000;
+const PORT = process.env.PORT || 8000;
 
 const app = express();
 
